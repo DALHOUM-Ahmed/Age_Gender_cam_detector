@@ -6,3 +6,9 @@ Download .prtotxt and .caffemodel from https://talhassner.github.io/home/publica
 
 Download haar cascade for face detection from https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
 to the same directory as the Predict.py and the the Readme files
+
+recommended libraries: OpenCV3 , numpy
+
+
+use:
+python3 Predict.py
